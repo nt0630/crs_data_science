@@ -1,2 +1,2 @@
-# crs_data_science
+# datasciencecoursera
 Repo created while taking Coursera Data Science
